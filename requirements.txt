@@ -54,7 +54,7 @@ aws-cdk.pipelines==1.113.0
 aws-cdk.region-info==1.113.0
 cattrs==1.8.0
 # Editable Git install with no remote (cdk-project==0.0.1)
--e /Users/evdi/work/cdk_pipeline/cdk_project/cdk_project
+#-e /Users/evdi/work/cdk_pipeline/cdk_project/cdk_project
 certifi==2021.5.30
 charset-normalizer==2.0.4
 constructs==3.3.147
